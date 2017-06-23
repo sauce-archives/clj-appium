@@ -1,6 +1,6 @@
 # clj-appium
 
-A simple Appium Clojure Client
+A simple Clojure Appium Client
 
 ## Usage
 
